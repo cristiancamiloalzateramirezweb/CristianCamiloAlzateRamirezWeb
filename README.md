@@ -20,11 +20,11 @@ El Carmen de Viboral, Antioquia, Colombia
 <strong>Telefono:</strong>
 +57 3136048448
 </li>
-<li flex="col">
+<li>
 <strong>Email:</strong>
 cristiancamiloalzateramirezweb@gmail.com
 </li>
-<li>
+<li flex="col">
 <strong>Siguemé:</strong><br>
 <a href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img align="left" width="20" height="20" src="./assets/images/facebook.svg"></a>
 <a href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img align="left" width="20" height="20" src="./assets/images/instagram.svg"></a>
