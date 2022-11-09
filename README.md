@@ -26,7 +26,7 @@ Me apasiona mucho la programación porque me ayuda a cambiar mi forma de pensar,
 
 Si considera que tengo un sitio en tu equipo de trabajo, o simplemente me quieres conocer mejor en una entrevista de trabajo o ¿tienes algún proyecto en mente? no dudes en contactame en alguno de los perfiles de mis redes sociales o en mi sitio web <a href="https://cristiancamiloalzateramirezweb.github.io/portafolio-web/">cristiancamiloalzateramirezweb.</a> Hasta pronto, nos vemos bendiciones...
                        
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="250" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="200" />
 
 ### Habilidades
 
