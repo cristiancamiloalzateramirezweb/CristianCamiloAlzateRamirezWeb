@@ -3,6 +3,8 @@
 <p align="center">
 <img width="100%" height="462" src="./assets/images/showcase.png">
 </p>
+
+<p align="center">
 <a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img align="left" width="40" height="40" src="./assets/images/facebook.svg"></a>
 <a title="Instagram" href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img align="left" width="40" height="40" src="./assets/images/instagram.svg"></a>
 <a title="Twitter" href="https://twitter.com/ccarweb/"><img width="40" height="40" align="left" src="./assets/images/twitter.svg"></a>
@@ -11,6 +13,7 @@
 <a title="TikTok" href="https://www.tiktok.com/@ccarweb/"><img width="40" height="40" align="left" src="./assets/images/tiktok.svg"></a>
 <a title="Linkedin" href="https://www.linkedin.com/in/cristiancamiloalzateramirezweb/"><img width="40" height="40" align="left" src="./assets/images/linkedin.svg"></a>
 <a title="Gmail" href="mailto:cristiancamiloalzateramirezweb@gmail.com"><img width="40" height="40" align="left" src="./assets/images/gmail.svg"></a>
+</p>
 
 <br><br><br><br>
 Diseñador UI/UX · Desarrollador Frontend · Desarrollador Backend · Desarrollador Base de Datos · Desarrollador Fullstack Informatico · Codificador · Autodidacta · Colombiano
