@@ -13,6 +13,7 @@
 <p>Diseñador UI/UX | Desarrollador Frontend | Desarrollador Backend | Desarrollador Base de Datos | Desarrollador Fullstack | 
 Informatico | Codificador | Autodidacta | Colombiano</p>
 
+<h2>Sobre Mí</h2>
 <p>
 Soy Desarrollador Web mi objetivo como desarrollador web es aprender cada día más e impactar de manera positiva a los clientes, colegas y el mundo del internet 
 con el aporte de mis habilidades y de adquirir experiencias en el desarrollo de soluciones para la web con herramientas creativas, innovadoras y funcionales. 
