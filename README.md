@@ -1,4 +1,7 @@
-<h2>¡Hola! 👋 Mi Nombre Es</h2>
+### ¡Hola! 👋 Mi Nombre Es Cristian Camilo Alzate Ramirez
+
+<p>Desarrollador Frontend - Desarrollador Backend - Desarrollador Base de Datos - Desarrollador Fullstack - Autodidacta - Colombiano</p>
+
 <a href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img align="left" width="20" height="20" src="./assets/images/facebook.svg"></a>
 <a href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img align="left" width="20" height="20" src="./assets/images/instagram.svg"></a>
 <a href="https://twitter.com/ccarweb/"><img width="20" height="20" align="left" src="./assets/images/twitter.svg"></a>
@@ -7,8 +10,6 @@
 <a href="https://www.tiktok.com/@ccarweb/"><img width="20" height="20" align="left" src="./assets/images/tiktok.svg"></a>
 <a href="https://www.linkedin.com/in/cristiancamiloalzateramirezweb/"><img width="20" height="20" align="left" src="./assets/images/linkedin.svg"></a>
 <a href="mailto:cristiancamiloalzateramirezweb@gmail.com"><img width="20" height="20" align="left" src="./assets/images/gmail.svg"></a>
-<h1>Cristian Camilo Alzate Ramirez.</h1>
-<p>Desarrollador Frontend - Desarrollador Backend - Desarrollador Base de Datos - Desarrollador Fullstack - Autodidacta - Colombiano</p>
 
 <h3>Datos Personales</h3>
 <ul>
