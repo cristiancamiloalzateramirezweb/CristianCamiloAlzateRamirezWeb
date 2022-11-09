@@ -1,4 +1,8 @@
 ### ¡Hola! 👋
+
+<p align="center">
+<img width="100%" height="250" src="./assets/images/showcase.png">
+</p>
 <a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img align="left" width="40" height="40" src="./assets/images/facebook.svg"></a>
 <a title="Instagram" href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img align="left" width="40" height="40" src="./assets/images/instagram.svg"></a>
 <a title="Twitter" href="https://twitter.com/ccarweb/"><img width="40" height="40" align="left" src="./assets/images/twitter.svg"></a>
