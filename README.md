@@ -15,18 +15,17 @@
 <p><i>Diseñador UI/UX · Desarrollador Frontend · Desarrollador Backend · Desarrollador Base de Datos<br> Desarrollador Fullstack · Informatico · Codificador · Autodidacta · Colombiano</i></p>
 
 <h2>Sobre Mí</h2>
-<p>
+
 Soy Desarrollador Web mi objetivo como desarrollador web es aprender cada día más e impactar de manera positiva a los clientes, colegas y el mundo del internet 
 con el aporte de mis habilidades y de adquirir experiencias en el desarrollo de soluciones para la web con herramientas creativas, innovadoras y funcionales. 
-<br><br>
+
 Desde que comence este viaje un poco más de 2 años, he trabajado para una empresa. Y llevo inmerso en el mundo de la programación y la informática desde los 20 años de edad.
-<br><br>
+
 Me encanta la tecnología, la programación y el mundo del internet, crear cosas, aprender y enseñar a los démas desde que era un niño. Soy autodidacta, curioso, responsable, trabajador, dedicado, creativo, perseverante, apasionado y feliz con lo que hago todos los días de mi vida. 
-<br><br>
+
 Me apasiona mucho la programación porque me ayuda a cambiar mi forma de pensar, hacer creativo y con ella puedo generar soluciones informáticas a la sociedad con el desarrollo de aplicaciones. Yo programo para generar soluciones no para solucionar problemas.
-<br><br>
+
 Si considera que tengo un sitio en tu equipo de trabajo, o simplemente me quieres conocer mejor en una entrevista de trabajo o ¿tienes algún proyecto en mente? no dudes en contactame en alguno de los perfiles de mis redes sociales o en mi sitio web <a href="https://cristiancamiloalzateramirezweb.github.io/portafolio-web/">cristiancamiloalzateramirezweb</a>. Hasta pronto, nos vemos bendiciones...
-</p>
                        
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="300" />
 <h1>Habilidades</h1>
