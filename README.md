@@ -1,4 +1,4 @@
-### ¡Hola! 👋 Mi Nombre Es Cristian Camilo Alzate Ramirez, Yo Soy Desarrollador Web.
+### ¡Hola! 👋
 <img align="right" src="./assets/images/avatar.svg" width="150" height="150">
 
 <a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img align="left" width="20" height="20" src="./assets/images/facebook.svg"></a>
@@ -16,8 +16,7 @@
 
 ### Sobre Mí
 
-Soy Desarrollador Web mi objetivo como desarrollador web es aprender cada día más e impactar de manera positiva a los clientes, colegas y el mundo del internet 
-con el aporte de mis habilidades y de adquirir experiencias en el desarrollo de soluciones para la web con herramientas creativas, innovadoras y funcionales. 
+Hola, Yo Soy Cristian Camilo Alzate Ramirez. Encantado de conocerte. Soy Desarrollador Web. Mi objetivo como desarrollador web es aprender cada día más e impactar de manera positiva a los clientes, colegas y el mundo del internet con el aporte de mis habilidades y de adquirir experiencias en el desarrollo de soluciones para la web con herramientas creativas, innovadoras y funcionales. 
 
 Desde que comence este viaje un poco más de 2 años, he trabajado para una empresa. Y llevo inmerso en el mundo de la programación y la informática desde los 20 años de edad.
 
