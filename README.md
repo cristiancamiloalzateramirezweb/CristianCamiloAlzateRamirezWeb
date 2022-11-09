@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Mi Nombre Es Cristian Camilo Alzate Ramirez.</h1>
-<h3 align="center">Desarrollador Web - Desarrollador Frontend - Desarrollador Backend - Desarrollador Base de Datos - Desarrollador Fullstack - Autodidacta - Colombiano</h3>
+<h1>Hola 👋, Mi Nombre Es Cristian Camilo Alzate Ramirez.</h1>
+<h3>Desarrollador Web - Desarrollador Frontend - Desarrollador Backend - Desarrollador Base de Datos - Desarrollador Fullstack - Autodidacta - Colombiano</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
