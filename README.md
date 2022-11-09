@@ -1,7 +1,5 @@
 ### ¡Hola! 👋 Mi Nombre Es Cristian Camilo Alzate Ramirez, Yo Soy Desarrollador Web.
 
-<p>Diseñador UI/UX | Desarrollador Frontend | Desarrollador Backend | Desarrollador Base de Datos | Desarrollador Fullstack | Informatico | Codificador | Autodidacta | Colombiano</p>
-
 <a href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img align="left" width="20" height="20" src="./assets/images/facebook.svg"></a>
 <a href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img align="left" width="20" height="20" src="./assets/images/instagram.svg"></a>
 <a href="https://twitter.com/ccarweb/"><img width="20" height="20" align="left" src="./assets/images/twitter.svg"></a>
@@ -11,6 +9,9 @@
 <a href="https://www.linkedin.com/in/cristiancamiloalzateramirezweb/"><img width="20" height="20" align="left" src="./assets/images/linkedin.svg"></a>
 <a href="mailto:cristiancamiloalzateramirezweb@gmail.com"><img width="20" height="20" align="left" src="./assets/images/gmail.svg"></a>
 <br>
+
+<p>Diseñador UI/UX | Desarrollador Frontend | Desarrollador Backend | Desarrollador Base de Datos | Desarrollador Fullstack | Informatico | Codificador | Autodidacta | Colombiano</p>
+
 <p>
            Hola, Yo Soy Cristian Camilo Alzate Ramirez.</span> Encantado de conocerte. Este es mi sitio web donde publico mis 
                             habilidades y los proyectos que he trabajado y programado. Soy Desarrollador Web mi objetivo como 
