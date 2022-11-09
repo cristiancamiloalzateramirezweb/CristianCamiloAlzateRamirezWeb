@@ -9,9 +9,9 @@
 <a title="Linkedin" href="https://www.linkedin.com/in/cristiancamiloalzateramirezweb/"><img width="20" height="20" align="left" src="./assets/images/linkedin.svg"></a>
 <a title="Gmail" href="mailto:cristiancamiloalzateramirezweb@gmail.com"><img width="20" height="20" align="left" src="./assets/images/gmail.svg"></a>
 
-<br>
+<br><br>
 
-Diseñador UI/UX · Desarrollador Frontend · Desarrollador Backend · Desarrollador Base de Datos<br> Desarrollador Fullstack · Informatico · Codificador · Autodidacta · Colombiano
+<i>Diseñador UI/UX · Desarrollador Frontend · Desarrollador Backend · Desarrollador Base de Datos<br> Desarrollador Fullstack · Informatico · Codificador · Autodidacta · Colombiano</i>
 
 ### Sobre Mí
 
