@@ -11,7 +11,7 @@
 
 <br>
 
-<b>Diseñador UI/UX · Desarrollador Frontend · Desarrollador Backend · Desarrollador Base de Datos<br> Desarrollador Fullstack · Informatico · Codificador · Autodidacta · Colombiano</b>
+Diseñador UI/UX · Desarrollador Frontend · Desarrollador Backend · Desarrollador Base de Datos<br> Desarrollador Fullstack · Informatico · Codificador · Autodidacta · Colombiano
 
 ### Sobre Mí
 
