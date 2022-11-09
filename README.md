@@ -37,6 +37,13 @@ cristiancamiloalzateramirezweb@gmail.com
 </li>
 </ul>
 
+<h3>Intereses</h3>
+<ul>
+<li>
+<strong></ Programar - Musica - Peliculas - Futbol - Viajar - Motos - Autos - Bicicletas - Fotos - Videos</strong>
+</li>
+</ul>  
+
 <h1>Habilidades</h1>
 <h5>Lenguajes Que Desarrollo:</h5>
 <code><img width="30" height="30" src="./assets/images/html.svg"></code>
