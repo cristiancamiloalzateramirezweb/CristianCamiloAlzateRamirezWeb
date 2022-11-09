@@ -67,8 +67,6 @@ El Carmen de Viboral, Antioquia, Colombia
 cristiancamiloalzateramirezweb@gmail.com
 </li>
 </ul>
-
-<br>
 <h3>Intereses</h3>
 <ul>
 <li>
