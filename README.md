@@ -38,5 +38,5 @@
                         </ul>
 
 <h1>Habilidades</h1>
-<p>Lenguajes</p>
+<h5>Lenguajes Que Desarrollo:</h5>
 <code><img width="30" height="30" src="./assets/images/html.svg"></code>
