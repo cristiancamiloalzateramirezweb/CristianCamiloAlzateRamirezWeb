@@ -1,14 +1,17 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
-### ¡Hola! 👋 Mi Nombre Es Cristian Camilo Alzate Ramirez.
+<h1 align="center">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Mi Nombre Es Cristian Camilo Alzate Ramirez.</h1>
+
+<p align="center">
+<img width="100%" src="https://github.com/demartini/demartini/blob/master/code.gif">
+</p>
+
 Yo Soy Desarrollador Web · Informatico · Codificador · Autodidacta · Colombiano
 <br><br>
 Desarrollo aplicaciones para la web creativas, innovadoras y funcionales. Me apasiona y me hace muy feliz lo que hago todos los dias de mi vida.
 <br>
 
-<p align="center">
-<img width="100%" src="https://github.com/demartini/demartini/blob/master/code.gif">
-</p>
+
 
 <br>
 
