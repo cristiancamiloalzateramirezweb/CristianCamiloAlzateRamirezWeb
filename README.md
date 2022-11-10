@@ -16,7 +16,7 @@
 <p align="center">
 <img width="100%" src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
-<h2>Sobre Mí</h2>
+<h2>👨🏻‍💻 Sobre Mí</h2>
 
 <p>
 Hola, Yo Soy Cristian Camilo Alzate Ramirez. Encantado de conocerte. Soy Desarrollador Web. Mi objetivo como desarrollador web es aprender cada día más e impactar de manera positiva a los clientes, colegas y el mundo del internet con el aporte de mis habilidades y de adquirir experiencias en el desarrollo de soluciones para la web con herramientas creativas, innovadoras y funcionales. 
@@ -32,7 +32,7 @@ Si considera que tengo un sitio en tu equipo de trabajo, o simplemente me quiere
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="200" />
 
-### Habilidades
+<h2>🛠 Habilidades</h2>
 
 **Lenguajes Que Desarrollo:**
 
