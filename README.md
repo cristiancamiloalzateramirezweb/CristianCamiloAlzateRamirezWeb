@@ -1,8 +1,9 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <br>
+<h3 align="center">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Mi Nombre Es Cristian Camilo Alzate Ramirez.</h3>
 <p align="center">Yo Soy Desarrollador Web · Informatico · Codificador · Autodidacta · Colombiano<p>
 <p align="center">Desarrollo aplicaciones para la web creativas, innovadoras y funcionales. Me apasiona y me hace muy feliz lo que hago todos los dias de mi vida.</p>
-<br><br>
+<br>
 <p align="center">
 <a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/facebook.svg"></a>
 <a title="Instagram" href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/instagram.svg"></a>
@@ -13,9 +14,6 @@
 <a title="Linkedin" href="https://www.linkedin.com/in/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/linkedin.svg"></a>
 <a title="Gmail" href="mailto:cristiancamiloalzateramirezweb@gmail.com"><img width="30" height="30" src="./assets/images/gmail.svg"></a>
 </p>
-
-<h2 align="center">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Mi Nombre Es Cristian Camilo Alzate Ramirez.</h1>
-
 <p align="center">
 <img width="100%" src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
