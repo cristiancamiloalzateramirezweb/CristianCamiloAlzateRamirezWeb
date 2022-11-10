@@ -1,5 +1,16 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 
+<p align="center">
+<a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/facebook.svg"></a>
+<a title="Instagram" href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/instagram.svg"></a>
+<a title="Twitter" href="https://twitter.com/ccarweb/"><img width="30" height="30" src="./assets/images/twitter.svg"></a>
+<a title="YouTube" href="https://www.youtube.com/channel/UCwVKvGpc23akQhYlgUt2K7g/"><img width="30" height="30" src="./assets/images/youtube.svg"></a>
+<a title="GitHub" href="https://github.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/github.svg"></a>
+<a title="TikTok" href="https://www.tiktok.com/@ccarweb/"><img width="30" height="30" src="./assets/images/tiktok.svg"></a>
+<a title="Linkedin" href="https://www.linkedin.com/in/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/linkedin.svg"></a>
+<a title="Gmail" href="mailto:cristiancamiloalzateramirezweb@gmail.com"><img width="30" height="30" src="./assets/images/gmail.svg"></a>
+</p>
+
 <h1 align="center">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Mi Nombre Es Cristian Camilo Alzate Ramirez.</h1>
 
 <p align="center">
@@ -14,18 +25,6 @@ Desarrollo aplicaciones para la web creativas, innovadoras y funcionales. Me apa
 
 
 <br>
-
-<p align="center">
-<a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/facebook.svg"></a>
-<a title="Instagram" href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/instagram.svg"></a>
-<a title="Twitter" href="https://twitter.com/ccarweb/"><img width="30" height="30" src="./assets/images/twitter.svg"></a>
-<a title="YouTube" href="https://www.youtube.com/channel/UCwVKvGpc23akQhYlgUt2K7g/"><img width="30" height="30" src="./assets/images/youtube.svg"></a>
-<a title="GitHub" href="https://github.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/github.svg"></a>
-<a title="TikTok" href="https://www.tiktok.com/@ccarweb/"><img width="30" height="30" src="./assets/images/tiktok.svg"></a>
-<a title="Linkedin" href="https://www.linkedin.com/in/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/linkedin.svg"></a>
-<a title="Gmail" href="mailto:cristiancamiloalzateramirezweb@gmail.com"><img width="30" height="30" src="./assets/images/gmail.svg"></a>
-</p>
-
 ### Sobre Mí
 
 <p>
