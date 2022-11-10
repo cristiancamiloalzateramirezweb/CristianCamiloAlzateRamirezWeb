@@ -2,6 +2,7 @@
 <br>
 <p align="center">Yo Soy Desarrollador Web · Informatico · Codificador · Autodidacta · Colombiano<p>
 <p align="center">Desarrollo aplicaciones para la web creativas, innovadoras y funcionales. Me apasiona y me hace muy feliz lo que hago todos los dias de mi vida.</p>
+<br><br>
 <p align="center">
 <a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/facebook.svg"></a>
 <a title="Instagram" href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/instagram.svg"></a>
