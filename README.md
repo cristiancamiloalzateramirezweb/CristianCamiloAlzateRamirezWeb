@@ -2,11 +2,7 @@
 <p align="center">Desarrollador Web · Informatico · Codificador · Autodidacta · Colombiano</p>
 <p align="center">Desarrollo aplicaciones para la web creativas, innovadoras y funcionales. Me apasiona y me hace muy feliz lo que hago todos los dias de mi vida.</p>
 
-<img align="left" width="1000" height="500" src="https://github.com/demartini/demartini/blob/master/code.gif">
-
-<p align="center">
-<img width="1000" height="420" src="./assets/images/showcase.png">
-</p>
+<img src="https://github.com/demartini/demartini/blob/master/code.gif">
 
 <p align="center">
 <a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/facebook.svg"></a>
