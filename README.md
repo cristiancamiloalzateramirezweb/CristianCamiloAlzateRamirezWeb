@@ -13,7 +13,7 @@
 <a title="Gmail" href="mailto:cristiancamiloalzateramirezweb@gmail.com"><img width="30" height="30" src="./assets/images/gmail.svg"></a>
 </p>
 
-<h1 align="center">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Mi Nombre Es Cristian Camilo Alzate Ramirez.</h1>
+<h2 align="center">¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> Mi Nombre Es Cristian Camilo Alzate Ramirez.</h1>
 
 <p align="center">
 <img width="100%" src="https://github.com/demartini/demartini/blob/master/code.gif">
@@ -24,10 +24,7 @@ Yo Soy Desarrollador Web · Informatico · Codificador · Autodidacta · Colombi
 Desarrollo aplicaciones para la web creativas, innovadoras y funcionales. Me apasiona y me hace muy feliz lo que hago todos los dias de mi vida.
 <br>
 
-
-
-<br>
-### Sobre Mí
+<h2>Sobre Mí</h2>
 
 <p>
 Hola, Yo Soy Cristian Camilo Alzate Ramirez. Encantado de conocerte. Soy Desarrollador Web. Mi objetivo como desarrollador web es aprender cada día más e impactar de manera positiva a los clientes, colegas y el mundo del internet con el aporte de mis habilidades y de adquirir experiencias en el desarrollo de soluciones para la web con herramientas creativas, innovadoras y funcionales. 
