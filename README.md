@@ -31,7 +31,6 @@ Si considera que tengo un sitio en tu equipo de trabajo, o simplemente me quiere
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="220">
 
-<br>
 <h2>🛠 Habilidades</h2>
 
 **Lenguajes Que Desarrollo:**
@@ -44,6 +43,8 @@ Si considera que tengo un sitio en tu equipo de trabajo, o simplemente me quiere
 <img align="left" title="PHP" width="30" height="30" src="./assets/images/php.svg">&nbsp;
 <img align="left" title="MySQL" width="30" height="30" src="./assets/images/mysql.svg">&nbsp;
 <img align="left" title="Git" width="30" height="30" src="./assets/images/git.svg">&nbsp;
+
+<br>
 
 **Herramientas De Desarrollo:**
 
