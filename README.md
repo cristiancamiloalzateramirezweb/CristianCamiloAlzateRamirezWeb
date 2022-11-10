@@ -1,7 +1,8 @@
 <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-
 <br>
-
+<p align="center">Yo Soy Desarrollador Web · Informatico · Codificador · Autodidacta · Colombiano<p>
+<br>
+<p align="center">Desarrollo aplicaciones para la web creativas, innovadoras y funcionales. Me apasiona y me hace muy feliz lo que hago todos los dias de mi vida.</p>
 <p align="center">
 <a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/facebook.svg"></a>
 <a title="Instagram" href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/instagram.svg"></a>
@@ -18,12 +19,6 @@
 <p align="center">
 <img width="100%" src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
-
-Yo Soy Desarrollador Web · Informatico · Codificador · Autodidacta · Colombiano
-<br><br>
-Desarrollo aplicaciones para la web creativas, innovadoras y funcionales. Me apasiona y me hace muy feliz lo que hago todos los dias de mi vida.
-<br>
-
 <h2>Sobre Mí</h2>
 
 <p>
