@@ -6,9 +6,9 @@
 Mi objetivo es aprender cada día más, brindar un excelente servicio para mis clientes e impactar de manera positiva compartiendo con ustedes un poco de mi experiencia generando herramientas como:
 
 <a href="https://www.youtube.com/@cristiancamiloalzateramirezweb">📹Tutoriales</a>
-<a href="https://cristiancamiloalzateramirezweb.github.io/ccarweb/blog.html">📖 Articulos</a>
-<a href="https://open.spotify.com/show/3xHFVNTx4ihEvGvqerclhM">🎙 Podcast</a>
-<a href="https://cristiancamiloalzateramirezweb.github.io/ccarweb/portafolio.html">💻 Proyectos</a>
+<a href="https://cristiancamiloalzateramirezweb.github.io/ccarweb/blog.html">📖Articulos</a>
+<a href="https://open.spotify.com/show/3xHFVNTx4ihEvGvqerclhM">🎙Podcast</a>
+<a href="https://cristiancamiloalzateramirezweb.github.io/ccarweb/portafolio.html">💻Proyectos</a>
 </p>
 <p align="center">
 <a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/facebook.svg"></a>&nbsp;
