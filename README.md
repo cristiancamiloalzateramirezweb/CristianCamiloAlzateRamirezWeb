@@ -43,9 +43,12 @@ Si considera que tengo un sitio en tu equipo de trabajo o me quieres contar la i
 <img align="left" title="CSS" width="30" height="30" src="./assets/images/css.svg">&nbsp;
 <img align="left" title="JavaScript" width="30" height="30" src="./assets/images/javascript.svg">&nbsp;
 <img align="left" title="JQuery" width="30" height="30" src="./assets/images/jquery.svg">&nbsp;
+<img align="left" title="Angular" width="30" height="30" src="./assets/images/angular.svg">&nbsp;
+<img align="left" title="React" width="30" height="30" src="./assets/images/react.svg">&nbsp;
 <img align="left" title="Java" width="30" height="30" src="./assets/images/java.svg">&nbsp;
 <img align="left" title="PHP" width="30" height="30" src="./assets/images/php.svg">&nbsp;
 <img align="left" title="MySQL" width="30" height="30" src="./assets/images/mysql.svg">&nbsp;
+<img align="left" title="Firebase" width="30" height="30" src="./assets/images/firebase.svg">&nbsp;
 <img align="left" title="Git" width="30" height="30" src="./assets/images/git.svg">&nbsp;
 
 <br>
