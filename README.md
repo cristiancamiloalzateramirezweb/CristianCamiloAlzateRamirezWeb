@@ -29,6 +29,7 @@ Si considera que tengo un sitio en tu equipo de trabajo o me quieres contar la i
 
 <h2>Tecnólogias:</h2>
 
+<p>
 <img align="left" title="HTML" width="30" height="30" src="./assets/images/html.svg">&nbsp;
 <img align="left" title="CSS" width="30" height="30" src="./assets/images/css.svg">&nbsp;
 <img align="left" title="JavaScript" width="30" height="30" src="./assets/images/javascript.svg">&nbsp;
@@ -45,6 +46,7 @@ Si considera que tengo un sitio en tu equipo de trabajo o me quieres contar la i
 <img align="left" title="MySQL Workbench" width="30" height="30" src="./assets/images/mysql.svg">&nbsp;
 <img align="left" title="phpMyAdmin" width="30" height="30" src="./assets/images/phpmyadmin.svg">&nbsp;
 <img align="left" title="Terminal" width="30" height="30" src="./assets/images/terminal.svg">&nbsp;
+</p>
 
 <h2>Encuéntrame en:</h2>
 
