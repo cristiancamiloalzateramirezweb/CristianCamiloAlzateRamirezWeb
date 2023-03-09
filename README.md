@@ -47,7 +47,7 @@ Si considera que tengo un sitio en tu equipo de trabajo o me quieres contar la i
 <img align="left" title="phpMyAdmin" width="30" height="30" src="./assets/images/phpmyadmin.svg">&nbsp;
 <img align="left" title="Terminal" width="30" height="30" src="./assets/images/terminal.svg">&nbsp;
 </p>
-
+<br>
 <h2>Encuéntrame en:</h2>
 
 <p>
