@@ -10,7 +10,6 @@
 <strong>cristiancamiloalzateramirezweb</strong> es el reflejo de mi sueño por crecer como profesional dentro del mundo del desarrollo de software. Me dedico a desarrollar páginas y aplicaciones web. Me apasiona la tecnología, la programación, el mundo del internet, crear cosas, aprender y enseñar a los demás. Me hace muy feliz lo que hago todos los días de mi vida.
 
 Mi objetivo es aprender cada día más, brindar un excelente servicio para mis clientes e impactar de manera positiva compartiendo con ustedes un poco de mi experiencia generando herramientas como:
-</p>
 
 <a href="https://www.youtube.com/@cristiancamiloalzateramirezweb">📹Tutoriales</a>
 <a href="https://cristiancamiloalzateramirezweb.github.io/ccarweb/blog.html">📖Articulos</a>
