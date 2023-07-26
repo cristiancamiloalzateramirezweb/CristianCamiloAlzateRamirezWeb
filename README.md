@@ -1,33 +1,21 @@
 <h1>Hola, mi nombre es Cristian Camilo Alzate Ramirez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
-<h4>Desarrollador de software freelance</h4>
+<h4>Desarrollador de Software Freelance Fullstack Web</h4>
 
 <img src="./assets/images/showcase.png" width="100%" height="auto">
 
-<p>
-<strong><a href="https://cristiancamiloalzateramirezweb.co">cristiancamiloalzateramirezweb</a></strong> es el reflejo de mi sueño por crecer como profesional dentro del mundo del desarrollo de software. Me dedico a desarrollar páginas y aplicaciones web. Me apasiona la tecnología, la programación, el mundo del internet, crear cosas, aprender y enseñar a los demás. Me hace muy feliz lo que hago todos los días de mi vida.
+<p>Soy Tecnológo en Analisis y Desarrollo de Software desde hace un año.</p>
 
-Mi objetivo es aprender cada día más, brindar un excelente servicio para mis clientes e impactar de manera positiva compartiendo con ustedes un poco de mi experiencia generando herramientas como:
+<p>
+En el 2022, finalicé mi carrera y creé <strong><a href="https://cristiancamiloalzateramirezweb.co">cristiancamiloalzateramirezweb</a>strong>, un reflejo de mi sueño de crecer como profesional en el mundo del desarrollo de software. Desde entonces, me he dedicado a especializarme en el desarrollo de páginas y aplicaciones web, colaborando con dos empresas y fundando mi propia startup. La programación, la tecnología, la informática y el mundo de Internet me apasionan profundamente. Disfruto creando cosas nuevas, aprendiendo y compartiendo conocimientos con los demás. Cada día, dedicarme a estas actividades me brinda una gran felicidad y satisfacción en mi vida.
+
+Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, aportando mis habilidades y experiencias generando herramientas como:
 
 <a href="https://www.youtube.com/@cristiancamiloalzateramirezweb">📹Tutoriales</a>
 <a href="https://cristiancamiloalzateramirezweb.co/blog">📖Articulos</a>
 <a href="https://open.spotify.com/show/3xHFVNTx4ihEvGvqerclhM">🎙Podcast</a>
 <a href="https://cristiancamiloalzateramirezweb.co/portafolio">💻Proyectos</a>
 </p>
-
-<h2>👨🏻‍💻 Sobre Mí</h2>
-
-<p>
-Hola, mi nombre es<strong> Cristian Camilo Alzate Ramirez, </strong>Nací hace 23 años en el Carmen de Viboral, Antioquía (Colombia). Soy un informático freelance emprendedor, autodidacta y apasionado por la tecnología, la programación y el mundo del Internet.
-
-Desde 2020 que comence este camino, he trabajado para compañias como Selecta Colombia, Ikoniko 360 y trabajo como freelance en proyectos para clientes.
-  
-Si considera que tengo un sitio en tu equipo de trabajo o me quieres contar la idea para comenzar con el proyecto ¡Cuenta conmigo!
-  
-Es importante perseguir tus intereses y metas con pasíon, dedicación y determinación:
-</p>
-
-<p>💻 Programar 🎧 Musica 📷 Fotos 📹 Videos ⚽ Futból 🚲 Bicicletas 🛵 Motos 🌄 Mochilear</p>
 
 <h2>Tecnólogias:</h2>
 
