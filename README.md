@@ -4,7 +4,7 @@
 
 <img src="./assets/images/showcase.jpg" width="100%" height="auto">
 
-<p>Soy Tecnólogo en Análisis y Desarrollo de Sistemas de Información, dentro de poco sere Ingeniero de Sistemas profesional.</p>
+<p>Soy tecnólogo en análisis y desarrollo de sistemas de información y dentro de poco sere ingeniero de sistemas profesional.</p>
 
 <p>
 En el 2022, finalicé mi carrera y creé <strong><a href="https://cristiancamiloalzateramirezweb.co">cristiancamiloalzateramirezweb</a></strong>, un reflejo de mi sueño de crecer como profesional en el mundo del desarrollo de software. Desde entonces, me he dedicado a especializarme en el desarrollo de páginas y aplicaciones web, colaborando con dos empresas y fundando mi propia startup. La programación, la tecnología, la informática y el mundo de Internet me apasionan profundamente. Disfruto creando cosas nuevas, aprendiendo y compartiendo conocimientos con los demás. Cada día, dedicarme a estas actividades me brinda una gran felicidad y satisfacción en mi vida.
