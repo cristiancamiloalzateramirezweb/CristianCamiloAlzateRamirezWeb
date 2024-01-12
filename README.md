@@ -2,7 +2,7 @@
 
 <h4>Desarrollador de Software Freelance Fullstack Web</h4>
 
-<img src="./assets/images/showcase.png" width="100%" height="auto">
+<img src="./assets/images/showcase.jpg" width="100%" height="auto">
 
 <p>Soy Tecnológo en Analisis y Desarrollo de Software desde hace un año.</p>
 
