@@ -18,26 +18,26 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 
 ## Habilidades:
 
-<img align="left" title="HTML" width="32" height="32" src="./assets/images/html.svg">
-<img align="left" title="CSS" width="32" height="32" src="./assets/images/css.svg">
-<img align="left" title="Sass" width="32" height="32" src="./assets/images/sass.svg">
-<img align="left" title="Bootstrap" width="32" height="32" src="./assets/images/bootstrap.svg">
-<img align="left" title="JavaScript" width="32" height="32" src="./assets/images/javascript.svg">
-<img align="left" title="Typescript" width="32" height="32" src="./assets/images/typescript.svg">
-<img align="left" title="JQuery" width="32" height="32" src="./assets/images/jquery.svg">
-<img align="left" title="React" width="32" height="32" src="./assets/images/react.svg">
-<img align="left" title="Angular" width="32" height="32" src="./assets/images/angular.svg">
-<img align="left" title="Figma" width="32" height="32" src="./assets/images/figma.svg">
-<img align="left" title="Java" width="32" height="32" src="./assets/images/java.svg">
-<img align="left" title="PHP" width="32" height="32" src="./assets/images/php.svg">
-<img align="left" title="MySQL" width="32" height="32" src="./assets/images/mysql.svg">
-<img align="left" title="Firebase" width="32" height="32" src="./assets/images/firebase.svg">
-<img align="left" title="Git" width="32" height="32" src="./assets/images/git.svg">
-<img align="left" title="GitHub" width="32" height="32" src="./assets/images/github.svg">
-<img align="left" title="WordPress" width="32" height="32" src="./assets/images/wordpress.svg">
-<img align="left" title="AWS" width="32" height="32" src="./assets/images/aws.svg">
-<img align="left" title="VS Code" width="32" height="32" src="./assets/images/vscode.svg">
-<img align="left" title="Netbeans" width="32" height="32" src="./assets/images/netbeans.svg">
+<img align="left" title="HTML" width="24" height="24" src="./assets/images/html.svg">
+<img align="left" title="CSS" width="24" height="24" src="./assets/images/css.svg">
+<img align="left" title="Sass" width="24" height="24" src="./assets/images/sass.svg">
+<img align="left" title="Bootstrap" width="24" height="24" src="./assets/images/bootstrap.svg">
+<img align="left" title="JavaScript" width="24" height="24" src="./assets/images/javascript.svg">
+<img align="left" title="Typescript" width="24" height="24" src="./assets/images/typescript.svg">
+<img align="left" title="JQuery" width="24" height="24" src="./assets/images/jquery.svg">
+<img align="left" title="React" width="24" height="24" src="./assets/images/react.svg">
+<img align="left" title="Angular" width="24" height="24" src="./assets/images/angular.svg">
+<img align="left" title="Figma" width="24" height="24" src="./assets/images/figma.svg">
+<img align="left" title="Java" width="24" height="24" src="./assets/images/java.svg">
+<img align="left" title="PHP" width="24" height="24" src="./assets/images/php.svg">
+<img align="left" title="MySQL" width="24" height="24" src="./assets/images/mysql.svg">
+<img align="left" title="Firebase" width="24" height="24" src="./assets/images/firebase.svg">
+<img align="left" title="Git" width="24" height="24" src="./assets/images/git.svg">
+<img align="left" title="GitHub" width="24" height="24" src="./assets/images/github.svg">
+<img align="left" title="WordPress" width="24" height="24" src="./assets/images/wordpress.svg">
+<img align="left" title="AWS" width="24" height="24" src="./assets/images/aws.svg">
+<img align="left" title="VS Code" width="24" height="24" src="./assets/images/vscode.svg">
+<img align="left" title="Netbeans" width="24" height="24" src="./assets/images/netbeans.svg">
 
 <br><br>
 
