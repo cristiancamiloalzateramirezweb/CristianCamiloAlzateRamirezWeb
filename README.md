@@ -48,6 +48,6 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 <img align="left" title="VS Code" width="24" height="24" src="./assets/images/vscode.svg">
 <img align="left" title="Netbeans" width="24" height="24" src="./assets/images/netbeans.svg">
 
-<br>
+<br><br>
 
 Y alguna más...
