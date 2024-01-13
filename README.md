@@ -20,7 +20,7 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 <h2>Habilidades:</h2>
 
 <p>
-<img align="left" title="HTML" width="48" height="48" src="./assets/images/html.svg">&nbsp;
+<img align="left" title="HTML" width="32" height="32" src="./assets/images/html.svg">&nbsp;
 <img align="left" title="CSS" width="32" height="32" src="./assets/images/css.svg">&nbsp;
 <img align="left" title="Sass" width="32" height="32" src="./assets/images/sass.svg">&nbsp;
 <img align="left" title="Bootstrap" width="32" height="32" src="./assets/images/bootstrap.svg">&nbsp;
@@ -45,12 +45,12 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 <h2>Encuéntrame en:</h2>
 
 <p>
-<a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/facebook.svg"></a>&nbsp;&nbsp;
-<a title="Instagram" href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/instagram.svg"></a>&nbsp;&nbsp;
-<a title="Twitter" href="https://twitter.com/ccarweb/"><img width="30" height="30" src="./assets/images/twitter.svg"></a>&nbsp;&nbsp;
-<a title="YouTube" href="https://www.youtube.com/channel/UCwVKvGpc23akQhYlgUt2K7g/"><img width="30" height="30" src="./assets/images/youtube.svg"></a>&nbsp;&nbsp;
-<a title="GitHub" href="https://github.com/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/github.svg"></a>&nbsp;&nbsp;
-<a title="TikTok" href="https://www.tiktok.com/@ccarweb/"><img width="30" height="30" src="./assets/images/tiktok.svg"></a>&nbsp;&nbsp;
-<a title="Linkedin" href="https://www.linkedin.com/in/cristiancamiloalzateramirezweb/"><img width="30" height="30" src="./assets/images/linkedin.svg"></a>&nbsp;&nbsp;
-<a title="Gmail" href="mailto:cristiancamiloalzateramirezweb@gmail.com"><img width="30" height="30" src="./assets/images/gmail.svg"></a>
+<a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img width="32" height="32" src="./assets/images/facebook.svg"></a>&nbsp;&nbsp;
+<a title="Instagram" href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img width="32" height="32" src="./assets/images/instagram.svg"></a>&nbsp;&nbsp;
+<a title="Twitter" href="https://twitter.com/ccarweb/"><img width="32" height="32" src="./assets/images/twitter.svg"></a>&nbsp;&nbsp;
+<a title="YouTube" href="https://www.youtube.com/channel/UCwVKvGpc23akQhYlgUt2K7g/"><img width="32" height="32" src="./assets/images/youtube.svg"></a>&nbsp;&nbsp;
+<a title="GitHub" href="https://github.com/cristiancamiloalzateramirezweb/"><img width="32" height="32" src="./assets/images/github.svg"></a>&nbsp;&nbsp;
+<a title="TikTok" href="https://www.tiktok.com/@ccarweb/"><img width="32" height="32" src="./assets/images/tiktok.svg"></a>&nbsp;&nbsp;
+<a title="Linkedin" href="https://www.linkedin.com/in/cristiancamiloalzateramirezweb/"><img width="32" height="32" src="./assets/images/linkedin.svg"></a>&nbsp;&nbsp;
+<a title="Gmail" href="mailto:cristiancamiloalzateramirezweb@gmail.com"><img width="32" height="32" src="./assets/images/gmail.svg"></a>
 </p>
