@@ -2,7 +2,7 @@
 
 <h4>Ingeniero emprendedor fullstack en programación y desarrollo web</h4>
 
-<img src="./assets/images/showcase.jpg" width="100%" height="auto">
+<img src="./assets/images/showcase.png" width="100%" height="auto">
 
 <p>Soy tecnólogo en análisis y desarrollo de sistemas de información y dentro de poco sere ingeniero de sistemas profesional.</p>
 
