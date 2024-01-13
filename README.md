@@ -20,7 +20,7 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 <h2>Habilidades:</h2>
 
 <p>
-<img align="left" title="HTML" width="32" height="32" src="./assets/images/html.svg">&nbsp;
+<img align="left" title="HTML" width="48" height="48" src="./assets/images/html.svg">&nbsp;
 <img align="left" title="CSS" width="32" height="32" src="./assets/images/css.svg">&nbsp;
 <img align="left" title="Sass" width="32" height="32" src="./assets/images/sass.svg">&nbsp;
 <img align="left" title="Bootstrap" width="32" height="32" src="./assets/images/bootstrap.svg">&nbsp;
