@@ -19,7 +19,7 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 
 ## Habilidades:
 
-[![HTML](https://img.shields.io/badge/GitHub-Profile-green)](https://github.com/tu-usuario)
+[![HTML](https://img.shields.io/badge/GitHub-Profile-green)]
 <img align="left" title="HTML" width="24" height="24" src="./assets/images/html.svg">
 <img align="left" title="CSS" width="24" height="24" src="./assets/images/css.svg">
 <img align="left" title="Sass" width="24" height="24" src="./assets/images/sass.svg">
