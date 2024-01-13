@@ -35,11 +35,11 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 <img align="left" title="Git" width="32" height="32" src="./assets/images/git.svg">&nbsp;
 <img align="left" title="GitHub" width="32" height="32" src="./assets/images/github.svg">&nbsp;
 <img align="left" title="WordPress" width="32" height="32" src="./assets/images/wordpress.svg">&nbsp;
-<img align="left" title="AWS" width="32" height="32" src="./assets/images/aws.svg">&nbsp;
+<img align="left" title="AWS" width="32" height="32" src="./assets/images/aws.svg">
 <img align="left" title="VS Code" width="32" height="32" src="./assets/images/vscode.svg">
 <img align="left" title="Netbeans" width="32" height="32" src="./assets/images/netbeans.svg">
 
-<br><br><br>
+<br><br>
 
 Y alguna más...
 
