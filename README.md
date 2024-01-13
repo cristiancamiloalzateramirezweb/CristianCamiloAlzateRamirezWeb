@@ -17,7 +17,7 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 <a href="https://cristiancamiloalzateramirezweb.co/portafolio">💻Proyectos</a>
 </p>
 
-<h2>Habilidades:</h2>
+##Habilidades:
 
 <img align="left" title="HTML" width="32" height="32" src="./assets/images/html.svg">&nbsp;
 <img align="left" title="CSS" width="32" height="32" src="./assets/images/css.svg">&nbsp;
@@ -41,8 +41,8 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 <img align="left" title="Netbeans" width="32" height="32" src="./assets/images/netbeans.svg">
 
 <p>Y alguna más...</p>
-<br>
-<h2>Encuéntrame en:</h2>
+<br><br>
+##Encuéntrame en:
 
 <p>
 <a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img width="32" height="32" src="./assets/images/facebook.svg"></a>&nbsp;&nbsp;
