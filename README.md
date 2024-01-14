@@ -19,7 +19,7 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 
 ## Habilidades: 
 
-**Lenguajes y herramientas:**
+**lenguajes y herramientas:**
 
 <code><img title="HTML" width="24" height="24" src="./assets/images/html.svg"></code>
 <code><img title="CSS" width="24" height="24" src="./assets/images/css.svg"></code>
