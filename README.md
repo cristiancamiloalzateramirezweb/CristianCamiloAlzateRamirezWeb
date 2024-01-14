@@ -17,20 +17,6 @@ Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, apo
 <li><a href="https://cristiancamiloalzateramirezweb.co/portafolio">💻 Proyectos</a></li>
 </ul>
 
-📊 **Esta semana dediqué mi tiempo a:**
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript   3 hrs 6 mins    █████████████▒░░░░░░░░░░░   52.83 %
-HTML         2 hrs 1 min     ████████▓░░░░░░░░░░░░░░░░   34.47 %
-CSS          18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-Postman      9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-```
-<!--END_SECTION:waka-->
-
-## Habilidades 
-
 **Lenguajes y Herramientas:**
 
 <code><img title="HTML" width="24" height="24" src="./assets/images/html.svg"></code>
@@ -55,6 +41,19 @@ Postman      9 mins          ▓░░░░░░░░░░░░░░░░
 <code><img title="Netbeans" width="24" height="24" src="./assets/images/netbeans.svg"></code>
 
 Y alguna más...
+
+📊 **Esta semana dediqué mi tiempo a:**
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript   3 hrs 6 mins    █████████████▒░░░░░░░░░░░   52.83 %
+HTML         2 hrs 1 min     ████████▓░░░░░░░░░░░░░░░░   34.47 %
+CSS          18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
+JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Postman      9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+```
+<!--END_SECTION:waka-->
+
 
 ## Encuentrame en
 
