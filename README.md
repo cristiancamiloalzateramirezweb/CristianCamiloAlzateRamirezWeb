@@ -28,7 +28,7 @@ JSON         10 mins         ▓░░░░░░░░░░░░░░░░
 Postman      9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
 ```
 
-## Habilidades: 
+## Habilidades 
 
 **Lenguajes y Herramientas:**
 
@@ -55,7 +55,7 @@ Postman      9 mins          ▓░░░░░░░░░░░░░░░░
 
 Y alguna más...
 
-## Encuentrame en...
+## Encuentrame en
 
 <a title="Facebook" href="https://www.facebook.com/cristiancamiloalzateramirezweb/"><img width="24" height="24" src="./assets/images/facebook.svg"></a>&nbsp;&nbsp;
 <a title="Instagram" href="https://www.instagram.com/cristiancamiloalzateramirezweb/"><img width="24" height="24" src="./assets/images/instagram.svg"></a>&nbsp;&nbsp;
