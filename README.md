@@ -27,6 +27,7 @@ CSS          18 mins         █▒░░░░░░░░░░░░░░░
 JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
 Postman      9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
 ```
+<!--END_SECTION:waka-->
 
 ## Habilidades 
 
