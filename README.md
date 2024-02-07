@@ -54,6 +54,7 @@ Además, estoy presente en las redes sociales:
 
 Y alguna más...
 
+Puedes descargar mi hoja de vida aqui: <a href="./assets/documents/hoja-vida.pdf" download><button>Hoja de Vida</button></a>
 📊 **Esta semana dediqué mi tiempo a:**
 <!--START_SECTION:waka-->
 
