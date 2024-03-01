@@ -6,9 +6,9 @@
 
 Soy tecnólogo en análisis y desarrollo de sistemas de información y dentro de poco sere ingeniero de sistemas profesional.
 
-En el 2022, finalicé mi carrera y creé <strong><a href="https://cristiancamiloalzateramirezweb.co">cristiancamiloalzateramirezweb</a></strong>, un reflejo de mi sueño de crecer como profesional en el mundo del desarrollo de software. Desde entonces, me he dedicado a especializarme en el desarrollo de páginas y aplicaciones web, colaborando con dos empresas y fundando mi propia startup. La programación, la tecnología, la informática y el mundo de Internet me apasionan profundamente. Disfruto creando cosas nuevas, aprendiendo y compartiendo conocimientos con los demás. Cada día, dedicarme a estas actividades me brinda una gran felicidad y satisfacción en mi vida.
-
-Mi objetivo es impactar de forma positiva tanto en clientes como en colegas, aportando mis habilidades y experiencias generando herramientas como:
+<strong><a href="https://cristiancamiloalzateramirezweb.co">Cristian Camilo Alzate Ramirez Web</a></strong>, es el reflejo de mi sueño de crecer como profesional en el mundo del
+desarrollo de software. Desde entonces me he especializado en el desarrollo de sitios y aplicaciones web. Me apasiona fusionar el mundo del Internet, la tecnología y la programación con
+el objetivo de compartir mis habilidades y experiencia en beneficio de la sociedad con soluciones digitales como:
 
 <ul>
 <li><a href="https://www.youtube.com/@cristiancamiloalzateramirezweb">📹 Tutoriales</a></li>
