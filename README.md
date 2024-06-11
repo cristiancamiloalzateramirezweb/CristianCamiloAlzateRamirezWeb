@@ -1,4 +1,4 @@
-# Hola, Soy Cristian Camilo Alzate Ramirez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+# Hola, mi nombre es Cristian Camilo Alzate Ramirez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
 #### Ingeniero indepediente fullstack para desarrollo web.
 
