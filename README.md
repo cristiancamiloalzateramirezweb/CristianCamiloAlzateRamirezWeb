@@ -60,10 +60,9 @@ Puedes descargar mi hoja de vida haciendo clic: <a href="./assets/documents/hoja
 <!--START_SECTION:waka-->
 
 ```txt
-Laravel      3 hrs 0 mins    ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░   37.0 %
-React        2 hrs 30 min    ▓▓▓▓▓▓▓░░░░░░░░░░░░░   30.5 %
-Angular      1 hrs 0 mins    ▓▓▓░░░░░░░░░░░░░░░░░   12.5 %
-HTML         50 mins         ▓▓░░░░░░░░░░░░░░░░░░   10.0 %
-CSS          50 mins         ▓▓░░░░░░░░░░░░░░░░░░   10.0 %
+React       3 hrs 00 mins    ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░   37.0 %
+HTML        2 hrs 30 mins    ▓▓▓▓▓▓░░░░░░░░░░░░░░   30.5 %
+CSS         2 hrs 30 mins    ▓▓▓▓▓▓░░░░░░░░░░░░░░   30.5 %
+GitHub            50 mins    ▓░░░░░░░░░░░░░░░░░░░    2.0 %
 ```
 <!--END_SECTION:waka-->
