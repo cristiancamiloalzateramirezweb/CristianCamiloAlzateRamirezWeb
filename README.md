@@ -10,12 +10,12 @@ Soy tecnólogo en análisis y desarrollo de sistemas de información y dentro de
 desarrollo de software. Desde entonces me he especializado en el desarrollo de sitios y aplicaciones web. Me apasiona fusionar el mundo del Internet, la tecnología y la programación con
 el objetivo de compartir mis habilidades y experiencia en beneficio de la sociedad con soluciones digitales como:
 
-<ul>
-<li><a href="https://www.youtube.com/@cristiancamiloalzateramirezweb">📹 Tutoriales</a></li>
-<li><a href="https://cristiancamiloalzateramirezweb.co/blog">📖 Articulos</a></li>
-<li><a href="https://open.spotify.com/show/3xHFVNTx4ihEvGvqerclhM">🎙 Podcast</a></li>
-<li><a href="https://cristiancamiloalzateramirezweb.co/portafolio">💻 Proyectos</a></li>
-</ul>
+<p>
+<a href="https://www.youtube.com/@cristiancamiloalzateramirezweb">📹 Tutoriales</a> -
+<a href="https://cristiancamiloalzateramirezweb.co/blog">📖 Articulos</a> -
+<a href="https://open.spotify.com/show/3xHFVNTx4ihEvGvqerclhM">🎙 Podcast</a> -
+<a href="https://cristiancamiloalzateramirezweb.co/portafolio">💻 Proyectos</a>
+</p>
 
 💬 ¡Me encantaría conocer más sobre ti! Estoy totalmente dispuesto a aclarar tus dudas y ayudarte a llevar a cabo tus proyectos e ideas. Para contactarme, puedes utilizar el siguiente <a href="https://www.cristiancamiloalzateramirezweb.co/contactame" target="_blank">formulario</a> o enviarme un correo electrónico a [cristiancamiloalzateramirezweb@gmail.com](mailto:cristiancamiloalzateramirezweb@gmail.com) y te responderé lo antes posible.
 
