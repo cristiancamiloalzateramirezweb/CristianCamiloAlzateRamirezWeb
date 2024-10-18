@@ -27,7 +27,7 @@ Además, estoy presente en las redes sociales:
 <a title="YouTube" href="https://www.youtube.com/@criscamideas/"><img width="24" height="24" src="./assets/images/youtube.svg"></a>&nbsp;
 <a title="GitHub" href="https://github.com/criscamideas/"><img width="24" height="24" src="./assets/images/github.svg"></a>&nbsp;
 <a title="TikTok" href="https://www.tiktok.com/@criscamideas/"><img width="24" height="24" src="./assets/images/tiktok.svg"></a>&nbsp;
-<a title="Linkedin" href="https://www.linkedin.com/in/criscamideas/"><img width="24" height="24" src="./assets/images/linkedin.svg"></a>
+<a title="Linkedin" href="https://www.linkedin.com/in/cristiancamiloalzateramirez/"><img width="24" height="24" src="./assets/images/linkedin.svg"></a>
 
 **Lenguajes y Herramientas:**
 
