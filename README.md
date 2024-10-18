@@ -34,10 +34,8 @@ Además, estoy presente en las redes sociales:
 <code><img title="HTML" width="24" height="24" src="./assets/images/html.svg"></code>
 <code><img title="CSS" width="24" height="24" src="./assets/images/css.svg"></code>
 <code><img title="Sass" width="24" height="24" src="./assets/images/sass.svg"></code>
-<code><img title="Bootstrap" width="24" height="24" src="./assets/images/bootstrap.svg"></code>
 <code><img title="JavaScript" width="24" height="24" src="./assets/images/javascript.svg"></code>
 <code><img title="Typescript" width="24" height="24" src="./assets/images/typescript.svg"></code>
-<code><img title="JQuery" width="24" height="24" src="./assets/images/jquery.svg"></code>
 <code><img title="React" width="24" height="24" src="./assets/images/react.svg"></code>
 <code><img title="Angular" width="24" height="24" src="./assets/images/angular.svg"></code>
 <code><img title="Figma" width="24" height="24" src="./assets/images/figma.svg"></code>
@@ -47,7 +45,6 @@ Además, estoy presente en las redes sociales:
 <code><img title="Firebase" width="24" height="24" src="./assets/images/firebase.svg"></code>
 <code><img title="Git" width="24" height="24" src="./assets/images/git.svg"></code>
 <code><img title="GitHub" width="24" height="24" src="./assets/images/github.svg"></code>
-<code><img title="WordPress" width="24" height="24" src="./assets/images/wordpress.svg"></code>
 <code><img title="AWS" width="24" height="24" src="./assets/images/aws.svg"></code>
 <code><img title="VS Code" width="24" height="24" src="./assets/images/vscode.svg"></code>
 <code><img title="Netbeans" width="24" height="24" src="./assets/images/netbeans.svg"></code>
