@@ -11,9 +11,9 @@ desarrollo de software. Desde entonces me he especializado en el desarrollo de s
 el objetivo de compartir mis habilidades y experiencia en beneficio de la sociedad con soluciones digitales como:
 
 <p>
-<a href="https://www.youtube.com/@cristiancamiloalzateramirezweb">📹Tutoriales</a>  -
-<a href="https://cristiancamiloalzateramirezweb.co/blog">📖Articulos</a>  -
-<a href="https://open.spotify.com/show/3xHFVNTx4ihEvGvqerclhM">🎙Podcast</a>  -
+<a href="https://www.youtube.com/@cristiancamiloalzateramirezweb">📹Tutoriales</a> -
+<a href="https://cristiancamiloalzateramirezweb.co/blog">📖Articulos</a> -
+<a href="https://open.spotify.com/show/3xHFVNTx4ihEvGvqerclhM">🎙Podcast</a> -
 <a href="https://cristiancamiloalzateramirezweb.co/portafolio">💻Proyectos</a>
 </p>
 
