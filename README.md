@@ -18,28 +18,28 @@ Me encantaría conocerte Estoy disponible para ayudarte con tus proyectos e idea
 
 ### 🌐 Mis Enlaces
 <a href="https://www.facebook.com/criscamideas/" target="_blank">
-  <img src="https://img.shields.io/badge/?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook" alt="Facebook">
 </a>
 <a href="https://www.instagram.com/criscamideas/" target="_blank">
-  <img src="https://img.shields.io/badge/?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram">
 </a>
 <a href="https://twitter.com/criscamideas/" target="_blank">
-  <img src="https://img.shields.io/badge/?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" alt="Twitter">
 </a>
 <a href="https://www.youtube.com/@criscamideas/" target="_blank">
-  <img src="https://img.shields.io/badge/?logo=youtube&logoColor=white&style=for-the-badge" alt="YouTube">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat-square" alt="YouTube">
 </a>
 <a href="https://github.com/criscamideas/" target="_blank">
-  <img src="https://img.shields.io/badge/?logo=github&logoColor=white&style=for-the-badge" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub">
 </a>
 <a href="https://www.linkedin.com/in/cristiancamiloalzateramirez/" target="_blank">
-  <img src="https://img.shields.io/badge/?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
 </a>
 <a href="https://discord.gg/TuDiscordLink" target="_blank">
-  <img src="https://img.shields.io/badge/?logo=discord&logoColor=white&style=for-the-badge" alt="Discord">
+  <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=flat-square" alt="Discord">
 </a>
 <a href="https://cristiancamiloalzateramirez.co" target="_blank">
-  <img src="https://img.shields.io/badge/?logo=googlechrome&logoColor=white&style=for-the-badge" alt="Sitio Web">
+  <img src="https://img.shields.io/badge/Sitio%20Web-FF7F00?logo=googlechrome&logoColor=white&style=flat-square" alt="Sitio Web">
 </a>
 
 
