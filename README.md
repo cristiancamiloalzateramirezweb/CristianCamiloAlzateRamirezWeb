@@ -7,12 +7,22 @@
 Soy un **Tecnólogo en Análisis y Desarrollo de Sistemas de Información** y pronto seré **Ingeniero de Sistemas**.
 Desde que empecé este viaje hace +4 años con el sueño de crecer como profesional en el mundo del desarrollo de software, me he especializado en todo lo relacionado con la web como independiente. Me apasiona fusionar el mundo del Internet, la tecnología y la programación con el objetivo de compartir mis habilidades y experiencia. Trabajo constantemente para mejorar mis habilidades en beneficio de la sociedad, ofreciendo soluciones digitales innovadoras y creativas, tales como:
 
-[📹 Tutoriales](https://www.youtube.com/@criscamideas)
-[📖 Articulos](https://cristiancamiloalzateramirez.co/blog)
-[🎙 Podcast](https://open.spotify.com/show/3xHFVNTx4ihEvGvqerclhM)
-[💻 Proyectos](https://cristiancamiloalzateramirezweb.co/portafolio)
+<p>
+<a href="https://www.youtube.com/@criscamideas" target="_blank" style="text-decoration: none; display: inline-block; background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold; margin-right: 10px; text-align: center; transition: background-color 0.3s;">
+    📹 Tutoriales
+  </a>
+  <a href="https://cristiancamiloalzateramirez.co/blog" target="_blank" style="text-decoration: none; display: inline-block; background-color: #FF7F00; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold; margin-right: 10px; text-align: center; transition: background-color 0.3s;">
+    📖 Artículos
+  </a>
+  <a href="https://open.spotify.com/show/3xHFVNTx4ihEvGvqerclhM" target="_blank" style="text-decoration: none; display: inline-block; background-color: #1DB954; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold; margin-right: 10px; text-align: center; transition: background-color 0.3s;">
+    🎙 Podcast
+  </a>
+  <a href="https://cristiancamiloalzateramirezweb.co/portafolio" target="_blank" style="text-decoration: none; display: inline-block; background-color: #4C1D95; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold; text-align: center; transition: background-color 0.3s;">
+    💻 Proyectos
+  </a>
+</p>
 
-## 📬 ¡Hablemos!
+## 📬 Buzon Publico
 
 Me encantaría conocerte Estoy disponible para ayudarte con tus proyectos e ideas. Puedes contactarme enviandome un correo a [💬 ccalzateramirez@gmail.com](mailto:ccalzateramirez@gmail.com), y te responderé lo antes posible.
 
