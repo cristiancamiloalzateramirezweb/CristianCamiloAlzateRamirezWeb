@@ -14,7 +14,7 @@ Desde que empecé este viaje hace +4 años con el sueño de crecer como profesio
 
 ## 📬 Buzon Publico
 
-Me encantaría conocerte Estoy disponible para ayudarte con tus proyectos e ideas. Puedes contactarme enviandome un correo a [💬 ccalzateramirez@gmail.com](mailto:ccalzateramirez@gmail.com), y te responderé lo antes posible.
+Me encantaría conocerte Estoy disponible para ayudarte con tus proyectos e ideas. Puedes contactarme enviandome un correo a [ccalzateramirez@gmail.com](mailto:ccalzateramirez@gmail.com), y te responderé lo antes posible.
 
 ### 🌐 Mis Enlaces
 <a href="https://www.facebook.com/criscamideas/" target="_blank">
@@ -35,13 +35,14 @@ Me encantaría conocerte Estoy disponible para ayudarte con tus proyectos e idea
 <a href="https://www.linkedin.com/in/cristiancamiloalzateramirez/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
 </a>
-<a href="https://discord.gg/TuDiscordLink" target="_blank">
+<a href="https://discord.gg/bYeKGgRjxn" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=flat-square" alt="Discord">
 </a>
 <a href="https://cristiancamiloalzateramirez.co" target="_blank">
   <img src="https://img.shields.io/badge/Sitio%20Web-FF7F00?logo=googlechrome&logoColor=white&style=flat-square" alt="Sitio Web">
 </a>
 
+---
 
 ### 🛠️ Conjunto de Habilidades
 **Frontend:**<br><br>
@@ -71,10 +72,10 @@ Me encantaría conocerte Estoy disponible para ayudarte con tus proyectos e idea
   ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 
 **Herramientas:**<br><br>
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
   ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
   ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square)
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
   ![Draw.io](https://img.shields.io/badge/-Draw.io-00C4CC?logo=diagrams.net&logoColor=white&style=flat-square)
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
@@ -87,3 +88,10 @@ React       3 hrs 00 mins    ▓▓▓▓▓▓▓▓▓▓░░░░░░░
 HTML        2 hrs 30 mins    ▓▓▓▓▓▓░░░░░░░░░░░░░░   30.5 %
 CSS         2 hrs 30 mins    ▓▓▓▓▓▓░░░░░░░░░░░░░░   30.5 %
 GitHub      50 mins          ▓░░░░░░░░░░░░░░░░░░░    2.0 %
+```
+
+---
+
+### ✨ **¡Gracias por visitar mi perfil!** 🎉
+
+Copyright © 2020 - 2025 **Cristian Camilo Alzate Ramirez**. Todos los derechos reservados.
