@@ -42,8 +42,6 @@ Me encantaría conocerte Estoy disponible para ayudarte con tus proyectos e idea
   <img src="https://img.shields.io/badge/Sitio%20Web-FF7F00?logo=googlechrome&logoColor=white&style=flat-square" alt="Sitio Web">
 </a>
 
----
-
 ### 🛠️ Conjunto de Habilidades
 **Frontend:**<br><br>
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
