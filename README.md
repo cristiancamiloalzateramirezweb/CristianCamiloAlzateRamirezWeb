@@ -7,20 +7,18 @@
 Soy un **Tecnólogo en Análisis y Desarrollo de Sistemas de Información** y pronto seré **Ingeniero de Sistemas**.
 Desde que empecé este viaje hace +4 años con el sueño de crecer como profesional en el mundo del desarrollo de software, me he especializado en todo lo relacionado con la web como independiente. Me apasiona fusionar el mundo del Internet, la tecnología y la programación con el objetivo de compartir mis habilidades y experiencia. Trabajo constantemente para mejorar mis habilidades en beneficio de la sociedad, ofreciendo soluciones digitales innovadoras y creativas, tales como:
 
-<p>
-<a href="https://www.youtube.com/@criscamideas" target="_blank" style="text-decoration: none; display: inline-block; background-color: #FF0000; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold; margin-right: 10px; text-align: center; transition: background-color 0.3s;">
-    📹 Tutoriales
-  </a>
-  <a href="https://cristiancamiloalzateramirez.co/blog" target="_blank" style="text-decoration: none; display: inline-block; background-color: #FF7F00; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold; margin-right: 10px; text-align: center; transition: background-color 0.3s;">
-    📖 Artículos
-  </a>
-  <a href="https://open.spotify.com/show/3xHFVNTx4ihEvGvqerclhM" target="_blank" style="text-decoration: none; display: inline-block; background-color: #1DB954; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold; margin-right: 10px; text-align: center; transition: background-color 0.3s;">
-    🎙 Podcast
-  </a>
-  <a href="https://cristiancamiloalzateramirezweb.co/portafolio" target="_blank" style="text-decoration: none; display: inline-block; background-color: #4C1D95; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold; text-align: center; transition: background-color 0.3s;">
-    💻 Proyectos
-  </a>
-</p>
+[![Tutoriales](https://img.shields.io/badge/Tutoriales-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@criscamideas)  
+Encuentra tutoriales sobre desarrollo web y mucho más. ¡Aprende y crece conmigo!
+
+[![Artículos](https://img.shields.io/badge/Artículos-FF7F00?logo=googlechrome&logoColor=white&style=for-the-badge)](https://cristiancamiloalzateramirez.co/blog)  
+Lee mis artículos sobre tendencias, consejos y buenas prácticas en desarrollo de software.
+
+[![Podcast](https://img.shields.io/badge/Podcast-1DB954?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/show/3xHFVNTx4ihEvGvqerclhM)  
+Escucha mis episodios donde hablo sobre tecnología, programación y más. ¡No te lo pierdas!
+
+[![Proyectos](https://img.shields.io/badge/Proyectos-4C1D95?logo=github&logoColor=white&style=for-the-badge)](https://cristiancamiloalzateramirezweb.co/portafolio)  
+Descubre mis proyectos más destacados y lo que he logrado en el mundo del desarrollo web.
+
 
 ## 📬 Buzon Publico
 
