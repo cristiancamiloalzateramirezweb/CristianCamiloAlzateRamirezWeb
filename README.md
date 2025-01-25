@@ -10,7 +10,7 @@ Desde que empecé este viaje hace +4 años con el sueño de crecer como profesio
 [![Tutoriales](https://img.shields.io/badge/Tutoriales-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@criscamideas) 
 [![Artículos](https://img.shields.io/badge/Artículos-FF7F00?logo=googlechrome&logoColor=white&style=for-the-badge)](https://cristiancamiloalzateramirez.co/blog) 
 [![Podcast](https://img.shields.io/badge/Podcast-1DB954?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/show/3xHFVNTx4ihEvGvqerclhM) 
-[![Proyectos](https://img.shields.io/badge/Proyectos-4C1D95?logo=github&logoColor=white&style=for-the-badge)](https://cristiancamiloalzateramirezweb.co/portafolio)
+[![Proyectos](https://img.shields.io/badge/Proyectos-4C1D95?logo=github&logoColor=white&style=for-the-badge)](https://cristiancamiloalzateramirez.co/portafolio)
 
 ## 📬 Buzon Publico
 
