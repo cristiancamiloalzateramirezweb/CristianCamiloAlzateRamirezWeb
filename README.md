@@ -12,7 +12,7 @@ Desde que empecé este viaje hace +4 años con el sueño de crecer como profesio
 [![Podcast](https://img.shields.io/badge/Podcast-1DB954?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/show/3xHFVNTx4ihEvGvqerclhM) 
 [![Proyectos](https://img.shields.io/badge/Proyectos-4C1D95?logo=github&logoColor=white&style=for-the-badge)](https://cristiancamiloalzateramirez.co/portafolio)
 
-## 📬 Buzon Publico
+### 📬 **Buzón Público**
 
 Me encantaría conocerte Estoy disponible para ayudarte con tus proyectos e ideas. Puedes contactarme enviandome un correo a [ccalzateramirez@gmail.com](mailto:ccalzateramirez@gmail.com), y te responderé lo antes posible.
 
