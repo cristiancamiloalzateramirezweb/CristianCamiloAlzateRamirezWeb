@@ -81,12 +81,8 @@ Me encantaría conocerte Estoy disponible para ayudarte con tus proyectos e idea
 
 ### 📊 Esta semana dediqué mi tiempo a:
 
-<!--START_SECTION:waka-->
-
 ```txt
 React       3 hrs 00 mins    ▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░   37.0 %
 HTML        2 hrs 30 mins    ▓▓▓▓▓▓░░░░░░░░░░░░░░   30.5 %
 CSS         2 hrs 30 mins    ▓▓▓▓▓▓░░░░░░░░░░░░░░   30.5 %
 GitHub      50 mins          ▓░░░░░░░░░░░░░░░░░░░    2.0 %
-
-<!--END_SECTION:waka-->
