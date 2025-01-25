@@ -7,11 +7,10 @@
 Soy un **Tecnólogo en Análisis y Desarrollo de Sistemas de Información** y pronto seré **Ingeniero de Sistemas**.
 Desde que empecé este viaje hace +4 años con el sueño de crecer como profesional en el mundo del desarrollo de software, me he especializado en todo lo relacionado con la web como independiente. Me apasiona fusionar el mundo del Internet, la tecnología y la programación con el objetivo de compartir mis habilidades y experiencia. Trabajo constantemente para mejorar mis habilidades en beneficio de la sociedad, ofreciendo soluciones digitales innovadoras y creativas, tales como:
 
-[![Tutoriales](https://img.shields.io/badge/Tutoriales-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@criscamideas)  
-[![Artículos](https://img.shields.io/badge/Artículos-FF7F00?logo=googlechrome&logoColor=white&style=for-the-badge)](https://cristiancamiloalzateramirez.co/blog)  
-[![Podcast](https://img.shields.io/badge/Podcast-1DB954?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/show/3xHFVNTx4ihEvGvqerclhM)  
-[![Proyectos](https://img.shields.io/badge/Proyectos-4C1D95?logo=github&logoColor=white&style=for-the-badge)](https://cristiancamiloalzateramirezweb.co/portafolio)  
-
+[![Tutoriales](https://img.shields.io/badge/Tutoriales-FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/@criscamideas) 
+[![Artículos](https://img.shields.io/badge/Artículos-FF7F00?logo=googlechrome&logoColor=white&style=for-the-badge)](https://cristiancamiloalzateramirez.co/blog) 
+[![Podcast](https://img.shields.io/badge/Podcast-1DB954?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/show/3xHFVNTx4ihEvGvqerclhM) 
+[![Proyectos](https://img.shields.io/badge/Proyectos-4C1D95?logo=github&logoColor=white&style=for-the-badge)](https://cristiancamiloalzateramirezweb.co/portafolio)
 
 ## 📬 Buzon Publico
 
