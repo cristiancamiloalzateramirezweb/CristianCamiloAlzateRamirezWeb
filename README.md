@@ -18,7 +18,7 @@ Me encantaría conocerte Estoy disponible para ayudarte con tus proyectos e idea
 
 ### 🌐 Mis Enlaces
 <a href="https://www.facebook.com/criscamideas/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook" alt="Facebook">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=flat-square" alt="Facebook">
 </a>
 <a href="https://www.instagram.com/criscamideas/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram">
