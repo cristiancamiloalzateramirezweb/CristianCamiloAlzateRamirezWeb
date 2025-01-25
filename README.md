@@ -1,4 +1,4 @@
-# Hola, Mi Nombre es **Cristian Camilo Alzate Ramirez** 👋
+# Hola, Soy **Cristian Camilo Alzate Ramirez** 👋
 
 ### Ingeniero Independiente Fullstack en Desarrollo Web 💻
 
