@@ -9,9 +9,10 @@ Desde que empecé este viaje hace +4 años con el sueño de crecer como profesio
 
 ### 📬 **Buzón Público**
 
-Me encantaría conocerte Estoy disponible para ayudarte con tus proyectos e ideas. Puedes contactarme enviandome un correo a [ccalzateramirez@gmail.com](mailto:ccalzateramirez@gmail.com), y te responderé lo antes posible.
+Me encantaría conocerte estoy aquí para ayudarte con tus proyectos e ideas. Si tienes alguna pregunta o necesitas asesoría, no dudes en contactarme. Puedes enviarme un correo a [ccalzateramirez@gmail.com](mailto:ccalzateramirez@gmail.com), y te responderé lo antes posible.
 
 ### 🌐 Mis Enlaces
+
 <a href="https://www.facebook.com/criscamideas/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=flat-square" alt="Facebook">
 </a>
@@ -38,6 +39,7 @@ Me encantaría conocerte Estoy disponible para ayudarte con tus proyectos e idea
 </a>
 
 ### 🛠️ Conjunto de Habilidades
+
 **Frontend:**<br>
   ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
