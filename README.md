@@ -16,23 +16,23 @@ Me encantaría conocerte estoy aquí para ayudarte con tus proyectos e ideas. Si
 <a href="https://www.facebook.com/criscamideas/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=flat-square" alt="Facebook">
 </a>
-<a href="https://www.instagram.com/criscamideas/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram">
-</a>
 <a href="https://twitter.com/criscamideas/" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" alt="Twitter">
 </a>
 <a href="https://www.youtube.com/@criscamideas/" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat-square" alt="YouTube">
 </a>
+<a href="https://www.tiktok.com/@criscamideas/" target="_blank">
+  <img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white&style=flat-square" alt="TikTok">
+</a>
+<a href="https://discord.gg/bYeKGgRjxn" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=flat-square" alt="Discord">
+</a>
 <a href="https://github.com/criscamideas/" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub">
 </a>
 <a href="https://www.linkedin.com/in/cristiancamiloalzateramirez/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn">
-</a>
-<a href="https://discord.gg/bYeKGgRjxn" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=flat-square" alt="Discord">
 </a>
 <a href="https://cristiancamiloalzateramirez.co" target="_blank">
   <img src="https://img.shields.io/badge/Sitio%20Web-FF7F00?logo=googlechrome&logoColor=white&style=flat-square" alt="Sitio Web">
