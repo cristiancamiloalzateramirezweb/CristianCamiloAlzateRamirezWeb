@@ -5,7 +5,11 @@
 <img src="./assets/images/brand/banner-main.jpg" width="100%" height="auto">
 
 Soy **Tecnólogo en Análisis y Desarrollo de Sistemas de Información** y pronto seré **Ingeniero de Sistemas**.
-Desde que empecé este viaje hace +4 años con el sueño de crecer como profesional en el mundo del desarrollo de software, me he especializado en todo lo relacionado con la web como independiente. Me apasiona fusionar el mundo del Internet, la tecnología y la programación con el objetivo de compartir mis habilidades y experiencia. Trabajo constantemente para mejorar mis habilidades en beneficio de la sociedad, ofreciendo soluciones digitales innovadoras y creativas, tales como: [📹 Tutoriales](https://www.youtube.com/@criscamideas) ~ [📖 Articulos](https://cristiancamiloalzateramirez.co/blog) ~ [🎙 Podcast](https://open.spotify.com/show/3xHFVNTx4ihEvGvqerclhM) ~ [💻 Proyectos](https://cristiancamiloalzateramirez.co/portafolio)
+Desde que empecé este viaje hace +4 años con el sueño de crecer como profesional en el mundo del desarrollo de software, me he especializado en todo lo relacionado con la web como independiente. Me apasiona fusionar el mundo del Internet, la tecnología y la programación con el objetivo de compartir mis habilidades y experiencia. Trabajo constantemente para mejorar mis habilidades en beneficio de la sociedad, ofreciendo soluciones digitales innovadoras y creativas, tales como:
+- [📹 Tutoriales](https://www.youtube.com/@criscamideas)
+- [📖 Articulos](https://cristiancamiloalzateramirez.co/blog)
+- [🎙 Podcast](https://open.spotify.com/show/3xHFVNTx4ihEvGvqerclhM)
+- [💻 Proyectos](https://cristiancamiloalzateramirez.co/portafolio)
 
 ### 📬 **Buzón Público**
 
