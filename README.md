@@ -19,6 +19,9 @@ Me encantaría conocerte estoy aquí para ayudarte con tus proyectos e ideas. Si
 <a href="https://twitter.com/criscamideas/" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" alt="Twitter">
 </a>
+<a href="https://www.instagram.com/criscamideas/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" alt="Instagram">
+</a>
 <a href="https://www.youtube.com/@criscamideas/" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat-square" alt="YouTube">
 </a>
