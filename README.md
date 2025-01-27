@@ -13,7 +13,7 @@ Desde que empecé este viaje hace +4 años con el sueño de crecer como profesio
 
 ### 📬 **Buzón Público**
 
-Me encantaría conocerte estoy aquí para ayudarte con tus proyectos e ideas. Si tienes alguna pregunta o necesitas asesoría, no dudes en contactarme. Puedes enviarme un correo a [ccalzateramirez@gmail.com](mailto:ccalzateramirez@gmail.com), y te responderé lo antes posible.
+Me encantaría conocerte estoy aquí para ayudarte con tus proyectos e ideas. Si tienes alguna pregunta o necesitas asesoría, no dudes en contactarme. Puedes enviarme un correo a [ccalzateramirez@gmail.com](mailto:ccalzateramirez@gmail.com) y te responderé lo antes posible.
 
 ### 🌐 Mis Enlaces
 
