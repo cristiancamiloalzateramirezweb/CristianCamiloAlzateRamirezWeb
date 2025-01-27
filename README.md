@@ -77,7 +77,7 @@ Me encantaría conocerte estoy aquí para ayudarte con tus proyectos e ideas. Si
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
   ![Terminal](https://img.shields.io/badge/-Terminal-4B5320?logo=gnome-terminal&logoColor=white&style=flat-square)
 
-### 📊 Esta semana dediqué mi tiempo a:
+### 📊 Durante esta semana, he invertido mi tiempo en:
 
 ```txt
 React                4 hrs 08 mins    ▓▓▓▓▓▓▓▓░░░░░░░░░░░░   40 %
