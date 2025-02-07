@@ -4,15 +4,15 @@
 
 <img src="./assets/images/brand/banner-main.jpg" width="100%" height="auto">
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=black&style=flat-square)](https://www.facebook.com/criscamideas/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=x&logoColor=black&style=flat-square)](https://twitter.com/criscamideas/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=black&style=flat-square)](https://www.instagram.com/criscamideas/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=black&style=flat-square)](https://www.youtube.com/@criscamideas/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=black&style=flat-square)](https://www.tiktok.com/@criscamideas/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=black&style=flat-square)](https://discord.gg/bYeKGgRjxn)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=black&style=flat-square)](https://github.com/criscamideas/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=link&logoColor=black&style=flat-square)](https://www.linkedin.com/in/cristiancamiloalzateramirez/)
-[![Sitio Web](https://img.shields.io/badge/Sitio%20Web-FF7F00?logo=googlechrome&logoColor=black&style=flat-square)](https://cristiancamiloalzateramirez.co)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=social)](https://www.facebook.com/criscamideas/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=social)](https://twitter.com/criscamideas/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=social)](https://www.instagram.com/criscamideas/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=social)](https://www.youtube.com/@criscamideas/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&style=social)](https://www.tiktok.com/@criscamideas/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&style=social)](https://discord.gg/bYeKGgRjxn)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=social)](https://github.com/criscamideas/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=social)](https://www.linkedin.com/in/cristiancamiloalzateramirez/)
+[![Sitio Web](https://img.shields.io/badge/Sitio%20Web-FF7F00?logo=googlechrome&style=social)](https://cristiancamiloalzateramirez.co)
 
 Soy **Tecnólogo en Análisis y Desarrollo de Sistemas de Información** y pronto seré **Ingeniero de Sistemas**.
 Desde que empecé este viaje hace +4 años con el sueño de crecer como profesional en el mundo del desarrollo de software, me he especializado en todo lo relacionado con la web como independiente. Me apasiona fusionar el mundo del Internet, la tecnología y la programación con el objetivo de compartir mis habilidades y experiencia. Trabajo constantemente para mejorar mis habilidades en beneficio de la sociedad, ofreciendo soluciones digitales innovadoras y creativas, tales como:
