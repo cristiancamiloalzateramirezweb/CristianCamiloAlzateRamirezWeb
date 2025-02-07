@@ -4,6 +4,7 @@
 
 <img src="./assets/images/brand/banner-main.jpg" width="100%" height="auto">
 
+<p>
 <a href="https://www.facebook.com/criscamideas/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=flat-square" alt="Facebook">
 </a>
@@ -31,7 +32,7 @@
 <a href="https://cristiancamiloalzateramirez.co" target="_blank">
   <img src="https://img.shields.io/badge/Sitio%20Web-FF7F00?logo=googlechrome&logoColor=white&style=flat-square" alt="Sitio Web">
 </a>
-
+</p>
 <br>
 
 Soy **Tecnólogo en Análisis y Desarrollo de Sistemas de Información** y pronto seré **Ingeniero de Sistemas**.
