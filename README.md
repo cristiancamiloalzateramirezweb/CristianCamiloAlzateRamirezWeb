@@ -32,6 +32,8 @@
   <img src="https://img.shields.io/badge/Sitio%20Web-FF7F00?logo=googlechrome&logoColor=white&style=flat-square" alt="Sitio Web">
 </a>
 
+<br><br>
+
 Soy **Tecnólogo en Análisis y Desarrollo de Sistemas de Información** y pronto seré **Ingeniero de Sistemas**.
 Desde que empecé este viaje hace +4 años con el sueño de crecer como profesional en el mundo del desarrollo de software, me he especializado en todo lo relacionado con la web como independiente. Me apasiona fusionar el mundo del Internet, la tecnología y la programación con el objetivo de compartir mis habilidades y experiencia. Trabajo constantemente para mejorar mis habilidades en beneficio de la sociedad, ofreciendo soluciones digitales innovadoras y creativas, tales como:
 - [📹 Tutoriales](https://www.youtube.com/@criscamideas)
