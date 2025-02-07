@@ -5,7 +5,7 @@
 <img src="./assets/images/brand/banner-main.jpg" width="100%" height="auto">
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=social)](https://www.facebook.com/criscamideas/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&style=social)](https://twitter.com/criscamideas/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=x&style=social)](https://twitter.com/criscamideas/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=social)](https://www.instagram.com/criscamideas/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=social)](https://www.youtube.com/@criscamideas/)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&style=social)](https://www.tiktok.com/@criscamideas/)
