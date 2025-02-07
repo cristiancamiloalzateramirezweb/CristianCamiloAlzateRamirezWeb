@@ -6,13 +6,13 @@
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=flat-square)](https://www.facebook.com/criscamideas/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/criscamideas/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=social)](https://www.instagram.com/criscamideas/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=social)](https://www.youtube.com/@criscamideas/)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white&style=social)](https://www.tiktok.com/@criscamideas/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=social)](https://discord.gg/bYeKGgRjxn)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=social)](https://github.com/criscamideas/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=social)](https://www.linkedin.com/in/cristiancamiloalzateramirez/)
-[![Sitio Web](https://img.shields.io/badge/Sitio%20Web-FF7F00?logo=googlechrome&logoColor=white&style=social)](https://cristiancamiloalzateramirez.co)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/criscamideas/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=flat-square)](https://www.youtube.com/@criscamideas/)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white&style=flat-square)](https://www.tiktok.com/@criscamideas/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=flat-square)](https://discord.gg/bYeKGgRjxn)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square)](https://github.com/criscamideas/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/cristiancamiloalzateramirez/)
+[![Sitio Web](https://img.shields.io/badge/Sitio%20Web-FF7F00?logo=googlechrome&logoColor=white&style=flat-square)](https://cristiancamiloalzateramirez.co)
 
 
 Soy **Tecnólogo en Análisis y Desarrollo de Sistemas de Información** y pronto seré **Ingeniero de Sistemas**.
