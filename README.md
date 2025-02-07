@@ -11,7 +11,7 @@
 [![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=black&style=social)](https://www.tiktok.com/@criscamideas/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=black&style=social)](https://discord.gg/bYeKGgRjxn)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=black&style=social)](https://github.com/criscamideas/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=black&style=social)](https://www.linkedin.com/in/cristiancamiloalzateramirez/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=link&logoColor=black&style=social)](https://www.linkedin.com/in/cristiancamiloalzateramirez/)
 [![Sitio Web](https://img.shields.io/badge/Sitio%20Web-FF7F00?logo=googlechrome&logoColor=black&style=social)](https://cristiancamiloalzateramirez.co)
 
 
