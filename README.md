@@ -69,6 +69,4 @@ Git                  1 hrs 50 mins    ▓▓░░░░░░░░░░░░
 
 ---
 
-### ✨ **¡Gracias por visitar mi perfil!** 🎉
-
-© 2020 - 2025 **Cristian Camilo Alzate Ramirez**. Todos los derechos reservados.
+✨ **¡Gracias por visitar mi perfil!** 🎉
