@@ -38,8 +38,6 @@ Me encantaría conocerte estoy aquí para ayudarte con tus proyectos e ideas. Si
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat-square)
 
 **Backend:**<br>
-  ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
-  ![Laravel](https://img.shields.io/badge/-Laravel-EF4135?logo=laravel&logoColor=white&style=flat-square)
   ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
   ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=flat-square)
 
